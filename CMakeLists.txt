@@ -6,7 +6,7 @@ ADD_DEFINITIONS(-DSTM32F030x6)
 
 include(stm32.cmake)
 
-PROJECT(stm32_hal_template)
+PROJECT(stm32f030_template)
 
 ## float version of printf()
 #SET(PRINTF_FLOAT TRUE)
